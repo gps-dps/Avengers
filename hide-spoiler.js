@@ -1,4 +1,4 @@
-kw = ['SPOILER','Avengers: Endgame SPOILER','post credit','DC','Marvel','Avengers: Endgame','black widow','Captain America','Thor','Captain Marvel','hammer','doctor strange','peter parker','tony stark','iron man']
+kw = ['SPOILER','Avengers: Endgame SPOILER','DC','Marvel','Avengers: Endgame','Captain America','Thor','Captain Marvel','tony stark','iron man']
 tags = "SPANEMBIULOLI";
 total = 0;
 
