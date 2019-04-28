@@ -1,4 +1,4 @@
-kw = ['post credit','DC','Marvel','Avengers: Endgame','black widow','Captain America','Thor','Captain Marvel','thor','tesseract','time machine','howard stark','Avengers: Infinity War','shared universe','marvel comics','avengers','endgame','time travel','marvel cinematic universe','last of series','based on comic','super villain','revenge','asgardian','memorial','iron spider armor','thanos invasion','thanos','beheaded','battle of new york','destiny','death of lead character','death','ant man','iron man','black panther','war machine','the incredible hulk','scarlet','winter soldier','peter parker','tony stark','hawkeye','sword','hammer','infinity stone','spaceship','avengers','alien warlord','axe','doctor strange','epic battle','final battle','infinity gauntlet','loki','pepper potts character','stan lee cameo','radiation',]
+kw = ['SPOILER','Avengers: Endgame SPOILER','post credit','DC','Marvel','Avengers: Endgame','black widow','Captain America','Thor','Captain Marvel','hammer','doctor strange','peter parker','tony stark','iron man']
 tags = "SPANEMBIULOLI";
 total = 0;
 
