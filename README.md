@@ -1,6 +1,8 @@
-Be Aware Of The Spoilers
+Be Aware Of The Spoilers  
 --------------------------
-Worked for me and Hope it works for you too
+(also of a few bugs)
+
+ 
 (They will be auto hidden or blurred)
 
  How To Use?
